@@ -1,16 +1,15 @@
-### Hi there 👋
+<p align="center">
+  <img width="17%" src="./assets/rick-header.png" />
+</p>
 
-<!--
-**RickvdLaan/RickvdLaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**About me:**
 
-Here are some ideas to get you started:
+**Languages and Tools:**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Programming stats:**  
+
+<img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=rickvdlaan&show_icons=true&include_all_commits=true&theme=vue-dark&hide_border=true" alt="Rick's github stats" /><img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickvdlaan&theme=vue-dark&hide_border=true&include_all_commits" />
+  
+**Current project:**
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rickvdlaan&repo=orm&show_owner&show_owner=true&theme=vue-dark&hide_border=true&include_all_commits)](https://github.com/rickvdlaan/orm)
