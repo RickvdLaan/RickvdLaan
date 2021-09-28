@@ -14,7 +14,7 @@
 <br />
 
 ```C#
-public sealed class Rick : Programmer
+public sealed class Rick : SoftwareEngineer
 {
     /// <summary>
     /// For recruiters =>
@@ -45,11 +45,11 @@ public sealed class Rick : Programmer
     /// <summary>
     /// The tools I use to do my job well:
     /// </summary>
-    public Tools Tools => Tools.VisualStudio2019    |
-                          Tools.VistualStudioCode   |
-                          Tools.SqlServerProfiler18 |
-                          Tools.SSMS                |
-                          Tools.Spotify;
+    public Tool Tools => Tool.VisualStudio2019    |
+                         Tool.VistualStudioCode   |
+                         Tool.SqlServerProfiler18 |
+                         Tool.SSMS                |
+                         Tool.Spotify;
 
     /// <summary>
     /// NuGet packages that make my code better:
@@ -73,5 +73,7 @@ public sealed class Rick : Programmer
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rickvdlaan&repo=orm&show_owner&show_owner=true&theme=vue-dark&hide_border=true&include_all_commits)](https://github.com/rickvdlaan/orm)
 
 ### Want to connect? 🌎
+
+I'm always up for connecting with different people! Exchanging ideas, experiences, et cetera. So if you want to say hi, sent me a dm! 😸
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rickvdlaan/)](https://www.linkedin.com/in/rickvdlaan/)  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/rickvdlaan)](https://twitter.com/rickvdlaan)
