@@ -23,9 +23,9 @@ public sealed class Rick : SoftwareEngineer
 
     /// <summary>
     /// An object–relational mapping framework written in .NET Standard 2.1.
-    /// <para> See <see cref="https://github.com/rickvdlaan/orm"/></para>
+    /// <para> See <see cref="https://github.com/rickvdlaan/sharpsql"/></para>
     /// </summary>
-    public string CurrentProject => "ORM";
+    public string CurrentProject => "SharpSql";
 
     /// <summary>
     /// My backend programming languages:
@@ -70,7 +70,7 @@ public sealed class Rick : SoftwareEngineer
 
 **Current project:**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rickvdlaan&repo=orm&show_owner&show_owner=true&theme=vue-dark&hide_border=true&include_all_commits)](https://github.com/rickvdlaan/orm)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rickvdlaan&repo=sharpsql&show_owner&show_owner=true&theme=vue-dark&hide_border=true&include_all_commits)](https://github.com/rickvdlaan/sharpsql)
 
 ### Want to connect? 🌎
 
