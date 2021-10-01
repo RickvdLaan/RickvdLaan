@@ -46,7 +46,7 @@ public sealed class Rick : SoftwareEngineer
     /// The tools I use to do my job well:
     /// </summary>
     public Tool Tools => Tool.VisualStudio2019    |
-                         Tool.VistualStudioCode   |
+                         Tool.VisualStudioCode    |
                          Tool.SqlServerProfiler18 |
                          Tool.SSMS                |
                          Tool.Spotify;
@@ -65,7 +65,6 @@ public sealed class Rick : SoftwareEngineer
 **Github & programming stats:**  
 
 <img height="200px" src="https://github-readme-stats.vercel.app/api?username=rickvdlaan&show_icons=true&include_all_commits=true&count_private=true&theme=vue-dark&hide_border=true" alt="Rick's github stats" />
-
 <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickvdlaan&theme=vue-dark&hide_border=true&include_all_commits&count_private=true" />
 
 **Current project:**
