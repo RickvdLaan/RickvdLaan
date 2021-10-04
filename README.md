@@ -28,14 +28,14 @@ public sealed class Rick : SoftwareEngineer
     public string CurrentProject => "SharpSql";
 
     /// <summary>
-    /// My backend programming languages:
+    /// My backend languages:
     /// </summary>
     public Backend Backend => Backend.CSharp       |
                               Backend.ObjectPascal |
                               Backend.Sql;
 
     /// <summary>
-    /// My frontend 'programming' languages:
+    /// My frontend languages:
     /// </summary>
     public Frontend Frontend => Frontend.XAML  |
                                 Frontend.HTML5 |
@@ -64,12 +64,12 @@ public sealed class Rick : SoftwareEngineer
 
 **Github & programming stats:**  
 
-<img height="200px" src="https://github-readme-stats.vercel.app/api?username=rickvdlaan&show_icons=true&include_all_commits=true&count_private=true&theme=vue-dark&hide_border=true" alt="Rick's github stats" />
-<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickvdlaan&theme=vue-dark&hide_border=true&include_all_commits&count_private=true" />
+<img width="400px" src="https://github-readme-stats.vercel.app/api?username=rickvdlaan&show_icons=true&include_all_commits=true&count_private=true&theme=vue-dark&hide_border=true" alt="Rick's github stats" />
+<img width="400px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickvdlaan&langs_count=5&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true" alt="Rick's top 5 used languages" />
 
 **Current project:**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rickvdlaan&repo=sharpsql&show_owner&show_owner=true&theme=vue-dark&hide_border=true&include_all_commits)](https://github.com/rickvdlaan/sharpsql)
+<img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=rickvdlaan&repo=sharpsql&show_owner&show_owner=true&theme=vue-dark&hide_border=true&langs_count=5&include_all_commits)](https://github.com/rickvdlaan/sharpsql" alt="Current project" />
 
 ### Want to connect? 🌎
 
