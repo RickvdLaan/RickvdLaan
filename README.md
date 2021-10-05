@@ -69,7 +69,7 @@ public sealed class Rick : SoftwareEngineer
 
 **Current project:**
 
-<img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=rickvdlaan&repo=sharpsql&show_owner&show_owner=true&theme=vue-dark&hide_border=true&langs_count=5&include_all_commits)](https://github.com/rickvdlaan/sharpsql" alt="Current project" />
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rickvdlaan&repo=sharpsql&show_owner&show_owner=true&theme=vue-dark&hide_border=true&include_all_commits)](https://github.com/rickvdlaan/sharpsql)
 
 ### Want to connect? 🌎
 
