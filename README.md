@@ -22,7 +22,7 @@ public sealed class Rick : SoftwareEngineer
     public const bool IsHappilyEmployed = true;
 
     /// <summary>
-    /// An object–relational mapping framework written in .NET Standard 2.1.
+    /// An object–relational mapping framework written in .NET 6.
     /// <para> See <see cref="https://github.com/rickvdlaan/sharpsql"/></para>
     /// </summary>
     public string CurrentProject => "SharpSql";
@@ -31,7 +31,7 @@ public sealed class Rick : SoftwareEngineer
     /// My backend languages:
     /// </summary>
     public Backend Backend => Backend.CSharp       |
-                              Backend.ObjectPascal |
+                              Backend.ObjectPascal | // Delphi
                               Backend.Sql;
 
     /// <summary>
@@ -45,7 +45,7 @@ public sealed class Rick : SoftwareEngineer
     /// <summary>
     /// The tools I use to do my job well:
     /// </summary>
-    public Tool Tools => Tool.VisualStudio2019    |
+    public Tool Tools => Tool.VisualStudio2022    |
                          Tool.VisualStudioCode    |
                          Tool.SqlServerProfiler18 |
                          Tool.SSMS                |
