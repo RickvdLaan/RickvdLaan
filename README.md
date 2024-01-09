@@ -17,15 +17,17 @@
 public sealed class Rick : SoftwareEngineer
 {
     /// <summary>
-    /// For recruiters =>
+    /// Regnum is a fantasy medieval real-time strategy (RTS) game. Explore the mysterious lands of Regnum, 
+    /// discover its secrets and build your very own kingdom and defeat your enemies to conquer the lands!
+    /// <para> See <see cref="https://www.regnumgames.nl"/></para>
     /// </summary>
-    public const bool IsHappilyEmployed = true;
+    public string CurrentProject => "Regnum";
 
     /// <summary>
     /// An object–relational mapping framework written in .NET 6.
     /// <para> See <see cref="https://github.com/rickvdlaan/sharpsql"/></para>
     /// </summary>
-    public string CurrentProject => "SharpSql";
+    public string PreviousProject => "SharpSql";
 
     /// <summary>
     /// My backend languages:
@@ -35,7 +37,7 @@ public sealed class Rick : SoftwareEngineer
                               Backend.Sql;
 
     /// <summary>
-    /// My frontend languages:
+    /// My 'frontend' languages:
     /// </summary>
     public Frontend Frontend => Frontend.XAML  |
                                 Frontend.HTML5 |
@@ -45,11 +47,21 @@ public sealed class Rick : SoftwareEngineer
     /// <summary>
     /// The tools I use to do my job well:
     /// </summary>
-    public Tool Tools => Tool.VisualStudio2022    |
-                         Tool.VisualStudioCode    |
+    public Tool Tools => Tool.Rider
+                         Tool.VisualStudio2022    |
                          Tool.SqlServerProfiler18 |
                          Tool.SSMS                |
                          Tool.Spotify;
+
+    /// <summary>
+    /// Additional tools I use to develop Regnum and/or my other hobby projects alongside my regular tools.
+    /// </summary>
+    public Tool AdditionalTools => Tool.Unity          |
+                                   Tool.Blender        |
+                                   Tool.Audacity       |
+                                   Tool.DaVinciResolve |
+                                   Tool.OBS;
+                               
 
     /// <summary>
     /// NuGet packages that make my code better:
@@ -62,17 +74,21 @@ public sealed class Rick : SoftwareEngineer
 }
 ```
 
-**Github & programming stats:**  
+**GitHub & programming stats:**  
 
-<img width="400px" src="https://github-readme-stats.vercel.app/api?username=rickvdlaan&show_icons=true&include_all_commits=true&count_private=true&theme=vue-dark&hide_border=true" alt="Rick's github stats" />
-<img width="400px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickvdlaan&langs_count=5&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true" alt="Rick's top 5 used languages" />
+<img width="400px" src="https://github-readme-stats.vercel.app/api?username=rickvdlaan&show_icons=true&include_all_commits=true&count_private=true&theme=vue-dark&hide_border=true" alt="Rick's GitHub stats" />
+<img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickvdlaan&langs_count=5&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true" alt="Rick's top 5 used languages" />
 
 **Current project:**
 
+https://www.regnumgames.nl/
+
+**Retired project(s):**
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rickvdlaan&repo=sharpsql&show_owner&show_owner=true&theme=vue-dark&hide_border=true&include_all_commits)](https://github.com/rickvdlaan/sharpsql)
 
-### Want to connect? 🌎
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rickvdlaan&repo=amstajanbonga&show_owner&show_owner=true&theme=vue-dark&hide_border=true&include_all_commits)](https://github.com/rickvdlaan/amstajanbonga)
 
-I'm always up for connecting with different people! Exchanging ideas, experiences, et cetera. So if you want to say hi, sent me a dm! 😸
+**Other project(s):**
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rickvdlaan/)](https://www.linkedin.com/in/rickvdlaan/)  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/rickvdlaan)](https://twitter.com/rickvdlaan)
+Five more private repositories which collectively has been worked on for ± one and a half years.
