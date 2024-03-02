@@ -13,19 +13,18 @@ public sealed class Rick : SoftwareEngineer
     public string PreviousProject => "SharpSql";
 
     /// <summary>
-    /// My backend languages:
+    /// Backend programming languages I've used extensively:
     /// </summary>
-    public Backend Backend => Backend.CSharp       |
-                              Backend.ObjectPascal | // Delphi
+    public Backend Backend => Backend.CSharp  |
+                              Backend.Delphi  | // Object Pascal
                               Backend.Sql;
 
     /// <summary>
-    /// My 'frontend' languages:
+    /// Frontend I've used extensively:
     /// </summary>
-    public Frontend Frontend => Frontend.XAML  |
-                                Frontend.HTML5 |
-                                Frontend.CSS3  |
-                                Frontend.TypeScript;
+    public Frontend Frontend => Frontend.XAML |
+                                Frontend.HTML |
+                                Frontend.CSS3;
 
     /// <summary>
     /// The tools I use to do my job well:
@@ -34,8 +33,7 @@ public sealed class Rick : SoftwareEngineer
                          Tool.VisualStudio2022    |
                          Tool.SqlServerProfiler18 |
                          Tool.SSMS                |
-                         Tool.Spotify;
-                               
+                         Tool.Spotify;            
 
     /// <summary>
     /// NuGet packages that make my code better:
@@ -45,6 +43,16 @@ public sealed class Rick : SoftwareEngineer
                                     NuGetPackage.NSubstitute     |
                                     NuGetPackage.Moq             |
                                     NuGetPackage.MsDependencyInjection;
+
+    /// <summary>
+    /// Other languages I've used (briefly) in the past:
+    /// </summary>
+    public Other Other => Other.Cpp        |
+                          Other.Java       |
+                          Other.JavaScript |
+                          Other.TypeScript |
+                          Other.AspClassic;
+                                  
 }
 ```
 
@@ -55,14 +63,21 @@ public sealed class Rick : SoftwareEngineer
 
 **Current project:**
 
+[Private repository]
+</br>
 https://www.regnumgames.nl/
 
 **Retired project(s):**
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rickvdlaan&repo=sharpsql&show_owner&show_owner=true&theme=vue-dark&hide_border=true&include_all_commits)](https://github.com/rickvdlaan/sharpsql)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rickvdlaan&repo=amstajanbonga&show_owner&show_owner=true&theme=vue-dark&hide_border=true&include_all_commits)](https://github.com/rickvdlaan/amstajanbonga)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rickvdlaan&repo=amstaboard&show_owner&show_owner=true&theme=vue-dark&hide_border=true&include_all_commits)](https://github.com/rickvdlaan/amstaboard)
 
-**Other project(s):**
+**Private project(s):**
 
-Five more private repositories which collectively has been worked on for ± one and a half years.
+Multiple other private repositories made over the years, which were made for fun. These projects include projects such as:
+- Websites;
+- Web applications;
+- 3D games:
+  * Mobile game with procedural level generation
+  * Web-based board game
