@@ -81,3 +81,7 @@ Multiple other private repositories made over the years, which were made for fun
 - 3D games:
   * Mobile game with procedural level generation
   * Web-based board game
+
+<br />
+
+![](https://komarev.com/ghpvc/?username=rickvdlaan&color=orange)
