@@ -2,7 +2,7 @@
 public sealed class Rick : SoftwareEngineer
 {
     /// <summary>
-    /// Regnum is a (online) medieval real-time strategy game, made in Unity.
+    /// Regnum is a (online) medieval fantasy real-time strategy game, made in Unity.
     /// </summary>
     public string CurrentProject => "Regnum";
 
@@ -16,6 +16,7 @@ public sealed class Rick : SoftwareEngineer
     /// Backend programming languages I've used extensively:
     /// </summary>
     public Backend Backend => Backend.CSharp  |
+                              Backend.Cpp     |
                               Backend.Delphi  | // Object Pascal
                               Backend.Sql;
 
@@ -47,8 +48,7 @@ public sealed class Rick : SoftwareEngineer
     /// <summary>
     /// Other languages I've used (briefly) in the past:
     /// </summary>
-    public Other Other => Other.Cpp        |
-                          Other.Java       |
+    public Other Other => Other.Java       |
                           Other.JavaScript |
                           Other.TypeScript |
                           Other.AspClassic;
